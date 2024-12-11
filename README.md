@@ -25,4 +25,8 @@ In this challenge, you'll use your knowledge of SparkSQL to determine key metric
 14. Download your Home_Sales.ipynb file and upload it into your "Home_Sales" GitHub repository.
 
 # Code Source
-
+- Module 22 lecture recordings
+- Java download videos
+- Starter code provided in resources
+- Module 22 week worked files and solutions
+- Additional links resources given in Module 22
